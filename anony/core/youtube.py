@@ -1,6 +1,4 @@
-# Copyright (c) 2025 AnonymousX1025
-# Licensed under the MIT License.
-# This file is part of AnonXMusic
+
 
 
 import os
@@ -13,8 +11,8 @@ from pathlib import Path
 
 from py_yt import Playlist, VideosSearch
 
-from anony import logger
-from anony.helpers import Track, utils
+from jbmusic import logger
+from jbmusic.helpers import Track, utils
 
 
 class YouTube:
